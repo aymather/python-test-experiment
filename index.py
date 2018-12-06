@@ -49,3 +49,5 @@ for trial in range(numberOfTrials):
 
 win.flip()
 core.quit()
+
+# THIS IS A COMMENT
